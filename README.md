@@ -4,8 +4,6 @@ Include of skins modulation
 # How to use
 1. `#include <modalSkin>` before any other script
 
-click [here](https://github.com/oscar-broman/SKY/) to download the file
-
 # Functions
 
 ```pawn
@@ -15,3 +13,5 @@ GetSkinGender(skinid)
 GetSkinNome(skinid)
 GetMaxSkins();
 ```
+
+[Github Download](https://github.com/igdiogo/modalSkin/releases/tag/Release)
