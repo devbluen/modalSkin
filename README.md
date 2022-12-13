@@ -14,5 +14,5 @@ GetSkinNome(skinid)
 GetMaxSkins();
 ```
 
-# Download
+#### Download
 [Release Version](https://github.com/igdiogo/modalSkin/releases/tag/Release)
