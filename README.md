@@ -4,12 +4,12 @@ Include of skins modulation
 # How to use
 1. `#include <modalSkin>` before any other script
 
-### Functions
+# Functions
 
-    ```pawn
-    GetSkinGender(skinid)
-        Returns: 1 - Masculino (Male) | 2 - Feminino (Female) | -1 - Invalid
+```pawn
+GetSkinGender(skinid)
+  Returns: 1 - Masculino (Male) | 2 - Feminino (Female) | -1 - Invalid
                 
-    GetSkinNome(skinid)
-    GetMaxSkins();
-    ```
+GetSkinNome(skinid)
+GetMaxSkins();
+```
