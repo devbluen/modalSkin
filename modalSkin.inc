@@ -1,12 +1,9 @@
 /*
 
-                    CREATED by blueN#2464
+                    CREATED by .blueN
                         Get Skin Informations. [v1.0]
 
-                    
-                    My Projects:
-                        Anti Cheater [Samp]: discord.gg/hFWe8JFvbz
-                        Server: discord.gg/rippzy
+		See More: https://dev.rippzy.com/bluen
 
 
             Functions:
@@ -300,7 +297,7 @@ new arraySkin[][arraySkin_Enum] = {
     {270,            "Masculino",               "Sweet"},
     {271,            "Masculino",               "Ryder"},
     {272,            "Masculino",               "Mafia Boss"},
-    {273,            "Masculino",               "T-Boné Mendez"},
+    {273,            "Masculino",               "T-BonÃ© Mendez"},
     {274,            "Masculino",               "Paramedic"},
     {275,            "Masculino",               "Paramedic"},
     {276,            "Masculino",               "Paramedic"},
