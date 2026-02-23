@@ -1,15 +1,23 @@
-# modalSkin
-Include of skins modulation
+# 🧔🏻 Skin Modal (data informations)
+Get important information about GTA SA skin models.
 
-# How to use
-1. `#include <modalSkin>` before any other script
+# 🔗 How to use
+1. `#include <skinModal>` in your source code
 
-# Functions
-
+# 📜 Functions
 ```pawn
+IsSkinMan(skinid)
+IsSkinWoman(skinid)
+
 GetSkinGender(skinid)
-  Returns: 1 - Masculino (Male) | 2 - Feminino (Female) | -1 - Invalid
-                
-GetSkinNome(skinid)
-GetMaxSkins();
+GetSkinName(skinid, dest[], maxlength = sizeof dest)
+GetSkinNameInline(skinid)
+
+GetMaxSkins()
+```
+### Enum
+```pawn
+E_SKINGENDER_INVALID
+E_SKINGENDER_MAN
+E_SKINGENDER_WOMAN
 ```
